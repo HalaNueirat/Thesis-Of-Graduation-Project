@@ -1,6 +1,6 @@
 Abstract
 
-This app was developed because navigating across huge, complex buildings like the Engineering Faculty at the Aab American
+This app was developed because navigating across huge, complex buildings like the Engineering Faculty at the Arab American
 University (AAUP) can be challenging and new students can be confused as to whether what is in the hall is a lecture for 
 them or not.  The Engineering Faculty Compass application was developed by using Unity platform, this app uses augmented 
 reality (AR) to help new students find lecture halls by scanning the Quick Response (QR) code on the floor where the target
